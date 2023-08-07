@@ -1,0 +1,19 @@
+{
+    "name": "codelines/laravel-datatables",
+    "type": "library",
+    "require": {
+        "illuminate/support": "^10.17",
+        "illuminate/database": "^10.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codelines\\LaravelDatatables\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Teejay Tamani",
+            "email": "tjaytamani@gmail.com"
+        }
+    ]
+}
